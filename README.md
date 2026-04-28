@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+"Specializing in Post-Exploitation Forensics: Where the bytes bleed, I find the DNA."
+
 <!--
 **UnS7S/UnS7S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
